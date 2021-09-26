@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>haru</title>
+</head>
+<body>
+    <h1>Day's self-introduction!!!</h1>
+    <h2>하루의 자기소개서</h2>
+    <h3>저의 Behance 링크를 드립니다!</h3>
+    <ul>
+        <li>
+
+         <a href="https://www.behance.net/1004youngj062d">
+            https://www.behance.net/1004youngj062d        
+         </a>
+        </li>
+    </ul>
+    <h4>또한 저의 instagram 주소도 드립니다!</h4>
+    <ul>
+        <li>
+
+            <a href="https://www.instagram.com/i.am_a_day/?igshid=imajm69f3ck7">
+                https://www.instagram.com/i.am_a_day/?igshid=imajm69f3ck7
+            </a>
+        </li>
+    </ul>
+
+
+</body>
+</html>
